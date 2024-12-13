@@ -59,7 +59,8 @@
 <div align="left">
     <img width="315" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnv194023&layout=compact&langs_count=8&theme=algolia">
     <img width="415" src="https://github-readme-stats.vercel.app/api?username=ducnv194023&show_icons=true&theme=algolia" /> 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ducnv194023)](https://git.io/streak-stats)
+    <img height="170" alt="stat-2" src="https://streak-stats.demolab.com/?user=ducnv194023" />
+
 </div>
 <br>
 
