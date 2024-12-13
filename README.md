@@ -57,9 +57,9 @@
 <br>
 <a href="[https://app.daily.dev/ducnv194023](https://app.daily.dev/ducnv194023)"></a>
 <div align="left">
-    <img width="315" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ntu002&layout=compact&langs_count=8&theme=algolia">
-    <img width="415" src="https://github-readme-stats.vercel.app/api?username=ntu002&show_icons=true&theme=algolia" /> 
-    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=ntu002&theme=algolia" />
+    <img width="315" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnv194023&layout=compact&langs_count=8&theme=algolia">
+    <img width="415" src="https://github-readme-stats.vercel.app/api?username=ducnv194023&show_icons=true&theme=algolia" /> 
+    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnv194023&theme=algolia" />
 </div>
 <br>
 
