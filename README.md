@@ -55,7 +55,7 @@
 
 <h2 align="left">Github Stats 🚀</h2>
 <br>
-<a href="https://app.daily.dev/ntu002"></a>
+<a href="https://app.daily.dev/ducnv194023"></a>
 <div align="left">
     <img width="315" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ntu002&layout=compact&langs_count=8&theme=algolia">
     <img width="415" src="https://github-readme-stats.vercel.app/api?username=ntu002&show_icons=true&theme=algolia" /> 
