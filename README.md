@@ -1,13 +1,13 @@
-<h1 align="center">Heya 👋, I'm Nguyen Ngoc Tu</h1>
+<h1 align="center">Heya 👋, I'm Nguyen Van Duc</h1>
 <h3 align="center">Shipper at Coolmate</h3>
 
 <h2 align="left">Contact me 📱</h2>
 <br>
 <div align="left">
     <a href="[https://www.facebook.com/profile.php?id=100014502258805](https://www.facebook.com/ducnv4701/)" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/_ntu.nguyen_/" target="top"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:ngoctubn2002@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://github.com/ntu002/" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.instagram.com/ducn__47/" target="top"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:ducnv472001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/ducnv194023/" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 </div>
 
